@@ -1,29 +1,29 @@
-### 📊 Linear Regression Project
-###📌 Overview
+# 📊 Linear Regression Project
+##📌 Overview
 
 
 
-###🎯 Objectives
+##🎯 Objectives
 
 
 ###🛠️ Tech Stack
 
 
-###📂 Project Structure
+##📂 Project Structure
 ├── app.py (or notebook.ipynb)
 ├── requirements.txt
 ├── README.md
 ├── data/
 │   └── dataset.csv
 
-###📦 Installation
+##📦 Installation
 
 Clone the repository:
 
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 
-###🤖 Model Implementation
+##🤖 Model Implementation
 
 Example implementation:
 
@@ -59,7 +59,7 @@ print("RMSE:", np.sqrt(metrics.mean_squared_error(y_test, predictions)))
 print("R2 Score:", metrics.r2_score(y_test, predictions))
 
 
-📈 Interpreting Coefficients
+##📈 Interpreting Coefficients
 
 To view feature impact:
 
@@ -74,7 +74,7 @@ Negative coefficient → decreases prediction
 
 Larger magnitude → stronger influence
 
-📊 Evaluation Metrics
+##📊 Evaluation Metrics
 
 MAE – Average absolute error
 
@@ -83,10 +83,10 @@ MSE – Average squared error
 RMSE – Square root of MSE
 
 
-###📊 Findings
+##📊 Findings
 
 
-###🧠 Conclusion
+##🧠 Conclusion
 
 
 
