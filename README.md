@@ -10,6 +10,7 @@
 
 
 ## 📂 Project Structure
+
 ├── app.py (or notebook.ipynb)
 ├── requirements.txt
 ├── README.md
@@ -88,8 +89,3 @@ RMSE – Square root of MSE
 
 ## 🧠 Conclusion
 
-
-
-Model interpretability is critical for real-world applications
-
-Evaluation metrics are essential for understanding predictive quality
