@@ -11,11 +11,6 @@
 
 ## 📂 Project Structure
 
-├── app.py (or notebook.ipynb)
-├── requirements.txt
-├── README.md
-├── data/
-│   └── dataset.csv
 
 ## 📦 Installation
 
